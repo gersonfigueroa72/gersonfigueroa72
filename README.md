@@ -28,7 +28,7 @@ Soy un estudiante del octavo semestre en física. Apasionado por la creación y 
 - [Correo Electrónico](gersonfi999@gmail.com)
 
 ### Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-nombre-de-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gersonfigueroa72&show_icons=true&theme=radical)
 
 ---
 
