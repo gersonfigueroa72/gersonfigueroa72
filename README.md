@@ -1,7 +1,7 @@
 # ¡Hola! Soy [Gerson Figueroa] 👋
 
 ### Sobre mí
-Soy un estudiante del octavo semestre en física. Apasionado por la creación y análisis de datos, así como el diseño gráfico. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad. Aquí encontrarás una colección de mis proyectos y contribuciones.
+Soy un estudiante del último año en física. Apasionado por la creación y análisis de datos, así como el diseño gráfico. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad. Aquí encontrarás una colección de mis proyectos y contribuciones.
 
 ### Habilidades
 - **Lenguajes de programación:** Python, R.
