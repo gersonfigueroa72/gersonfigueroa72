@@ -6,16 +6,18 @@ Soy un estudiante del último año en física. Apasionado por la creación y an�
 ### Habilidades
 - **Lenguajes de programación:** Python, R.
 - **Herramientas de diseño:** Photoshop, Canva.
-- **Otras habilidades:** Análisis de datos, visualización de datos, machine learning.
+- **Otras habilidades:** Análisis de datos, visualización de datos.
 
 ### Proyectos destacados
 
 #### Proyectos de Python
-
+- **Método de Euler, para resolver ecuaciones diferenciales.** [Enlace al proyecto](https://github.com/gersonfigueroa72/M-todo-de-Euler-para-soluci-n-de-EDOs)
+- **Modelo de Iising** [Enlace al proyecto]()
+- **Calculo del Perihelio de Mercurio** [Enlace al proyecto]()
 #### Proyectos de R
 
 #### Proyectos de Diseño Gráfico
-- **[Portafolio de Photoshop](URL del repositorio)**: Una colección de mis mejores trabajos de diseño en Photoshop, incluyendo retoque de imágenes y creación de gráficos. ![Photoshop](https://img.shields.io/badge/-Photoshop-blue)
+- **[Portafolio de Photoshop](https://drive.google.com/drive/folders/13cmbR4MaUJ6avObiSjLOqyW1e26M2itm))**: Una colección de mis mejores trabajos de diseño en Photoshop, incluyendo retoque de imágenes y creación de gráficos. ![Photoshop](https://img.shields.io/badge/-Photoshop-blue)
 - 
 ### Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/gerson-noé-figueroa-jiménez/)
