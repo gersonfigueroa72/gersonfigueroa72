@@ -11,9 +11,7 @@ Soy un estudiante del último año en física. Apasionado por la creación y an�
 ### Proyectos destacados
 
 #### Proyectos de Python
-- **Método de Euler, para resolver ecuaciones diferenciales.** [Enlace al proyecto](https://github.com/gersonfigueroa72/M-todo-de-Euler-para-soluci-n-de-EDOs)
-- **Modelo de Iising** [Enlace al proyecto]()
-- **Calculo del Perihelio de Mercurio** [Enlace al proyecto]()
+[Enlace al proyecto]([https://github.com/gersonfigueroa72/M-todo-de-Euler-para-soluci-n-de-EDOs](https://github.com/gersonfigueroa72/Proyectos-de-Python))
 #### Proyectos de R
 
 #### Proyectos de Diseño Gráfico
