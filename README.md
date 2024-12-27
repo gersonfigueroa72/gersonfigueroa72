@@ -13,6 +13,7 @@ Soy un estudiante del último año en física. Apasionado por la creación y an�
 #### Proyectos de Python
 [Enlace a los proyectos](https://github.com/gersonfigueroa72/Proyectos-de-Python)
 #### Proyectos de R
+[Enlace a los proyectos](https://github.com/gersonfigueroa72/R-y-R-MarkDown)
 
 #### Proyectos de Diseño Gráfico
 - **[Portafolio de Photoshop](https://drive.google.com/drive/folders/13cmbR4MaUJ6avObiSjLOqyW1e26M2itm))**: Una colección de mis mejores trabajos de diseño en Photoshop, incluyendo retoque de imágenes y creación de gráficos. ![Photoshop](https://img.shields.io/badge/-Photoshop-blue)
